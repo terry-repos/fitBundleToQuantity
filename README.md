@@ -14,14 +14,16 @@ the product code
 ## Output:
 A successfully passing test(s) that demonstrates the following output: (The format of the
 output is not important)
-10 R12 $12.99
-1 x 10 $12.99
-15 L09 $41.90
-1 x 9 $24.95
-1 x 6 $16.95
-13 T58 $25.85
-2 x 5 $9.95
-1 x 3 $5.95
+- 10 R12 $12.99
+  - 1 x 10 $12.99
+
+- 15 L09 $41.90
+  - 1 x 9 $24.95
+  - 1 x 6 $16.95
+
+- 13 T58 $25.85
+  - 2 x 5 $9.95
+  - 1 x 3 $5.95
 
 ## To run
 1. git clone https://github.com/terry-repos/fitBundlesToQuantity.git
