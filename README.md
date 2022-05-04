@@ -12,7 +12,7 @@ the product code
 - 10 R12
 - 15 L09
 - 13 T58
-- 
+
 ## Output:
 A successfully passing test(s) that demonstrates the following output: (The format of the
 output is not important)
@@ -32,3 +32,6 @@ output is not important)
 2. npm install
 3. sudo tsc --outDir ./build ./src/index.ts; node ./build/index.js;   
 4. Enjoy
+
+## Comments
+The algorithm logic is found in order.ts
