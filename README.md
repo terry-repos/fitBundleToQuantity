@@ -24,7 +24,7 @@ output is not important)
 1 x 3 $5.95
 
 ## To run
-#. Git Clone
-#. npm install
-#. sudo tsc --outDir ./build ./src/index.ts; node ./build/index.js;   
-#. Enjoy
+1. Git Clone
+2. npm install
+3. sudo tsc --outDir ./build ./src/index.ts; node ./build/index.js;   
+4. Enjoy
