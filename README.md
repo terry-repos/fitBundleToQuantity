@@ -24,7 +24,7 @@ output is not important)
 1 x 3 $5.95
 
 ## To run
-1. Git Clone
+1. git clone https://github.com/terry-repos/fitBundlesToQuantity.git
 2. npm install
 3. sudo tsc --outDir ./build ./src/index.ts; node ./build/index.js;   
 4. Enjoy
