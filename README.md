@@ -1,16 +1,18 @@
 # fitBundlesToQuantity
 
-## Task:
-Given a customer order you are required to determine the cost and bundle breakdown for
+Given a customer order determine the cost and bundle breakdown for
 each product. To save on shipping space each order should contain the minimal number
 of bundles.
+
 ## Input:
 Each order has a series of lines with each line containing the number of items followed by
 the product code
+
 ## An example input:
-10 R12
-15 L09
-13 T58
+- 10 R12
+- 15 L09
+- 13 T58
+- 
 ## Output:
 A successfully passing test(s) that demonstrates the following output: (The format of the
 output is not important)
