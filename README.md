@@ -34,4 +34,4 @@ output is not important)
 4. Enjoy
 
 ## Comments
-The algorithm logic is found in order.ts
+The algorithm logic is found in src/models/order.ts
